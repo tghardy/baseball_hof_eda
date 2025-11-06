@@ -1,7 +1,8 @@
-
-    Introduction / motivation of why this project is relevant and interesting
-
-# Baseball HoF Analysis
+---
+title: Data Acquisition Project
+author: Timothy Hardy
+---
+# Baseball Hall of Fame Analysis
 
 ## Intro
 
@@ -81,15 +82,3 @@ If you enjoyed learning about these Hall of Fame players, you'll definitely enjo
 
 My code to perform this analysis can be found on my 
 
-Motivating question (what are you hoping to learn from this data?)
-
-    Information about how you determined that it was ethical / allowable to get the data that you gathered and/or how you implemented good scraping practice
-    Summary of the steps needed to get your data with an emphasis on teaching other how they could get started with a similar project
-        Overly detailed accounts are not required (and discouraged)
-        Just provide enough info to help someone else potentially get started with a similar project
-
-
-    EDA highlights: summary statistics, summary graphics, and/or information about final dataset (e.g., total sample size, counts of categorical variables, numerical summaries of numeric variables)
-        What are the most interesting findings of your EDA?
-    Links to find further information and /or resources
-    A link to your code in a separate GitHub repo
