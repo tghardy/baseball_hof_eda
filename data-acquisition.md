@@ -80,5 +80,5 @@ The Yankees and the Giants have contributed the most HoF talent by far compared 
 
 If you enjoyed learning about these Hall of Fame players, you'll definitely enjoy taking a trip to [Baseball Reference](https://baseball-reference.com). You can look more into the top HoF players and look at their stats to see just how good they are. Or maybe you can look at the 2-year long career of Morgan Bulkeley and see what he did that merited such a high honor early in the life of American baseball. You can also look at the [official MLB website](https://mlb.com) to read up on current top players and significant stories of the past.
 
-My code to perform this analysis can be found on my 
+Lastly, if you want to see more of the specifics of how this works, my code to perform this analysis can be found on [my GitHub](https://github.com/tghardy/baseball_hof_eda). 
 
